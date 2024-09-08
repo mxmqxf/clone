@@ -95,13 +95,11 @@
     .login-header{
         margin-left: 20px;
         font-size: 46px;
-        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
         font-weight:600;
         padding-bottom: 5px;
     }
     .email-title{
         font-size: 14px;
-        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
         margin-left: 20px;
         margin-top: -20px;
     }
@@ -118,7 +116,6 @@
     }
     .password-title{
         font-size: 14px;
-        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
         margin-left: 20px;
         margin-top: 10px; 
         padding-top: 5px;
@@ -135,13 +132,11 @@
         font-size: 16px;
     }
     .creat-acc{
-        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
         margin-left: 20px;
     }
     .pass{
         margin-left: 120px;
         margin-top: -34px;
-        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     }
     
     </style>
